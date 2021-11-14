@@ -11,7 +11,7 @@ function App() {
 				Contacto:
 				<a
 					className="App-link"
-					href="https://reactjs.org"
+					href="#"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
